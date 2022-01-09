@@ -1,10 +1,11 @@
-html, body {
-  background: black;
-  color: #00b800;
-  margin:0;
+html,
+body {
+  background: #f2cc8f;
+  color: #2a9d8f;
+  margin: 0;
   padding: 0;
   padding-top: 10px;
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   text-align: center;
 }
 

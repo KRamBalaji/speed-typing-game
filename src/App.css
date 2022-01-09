@@ -4,7 +4,7 @@ button {
   margin: 0 auto;
   border: none;
   background: #a80020;
-  background: #00b800;
+  background: #e07a5f;
   padding: 10px 20px;
   text-transform: uppercase;
 }
@@ -16,11 +16,13 @@ h1 {
 
 textarea {
   font-family: "Press Start 2P", cursive;
+  font-size: 18px;
+  color: #f4a261;
   border: 3px solid black;
   width: 90%;
   margin: 0 auto;
   outline: none;
   height: 200px;
-  background: #00b800;
+  background: #f4f1de;
   padding: 10px;
 }
